@@ -1,3 +1,4 @@
 def my_each(words)
-  while
+  my_each(words) do |item|
+    puts words
 end
