@@ -1,5 +1,4 @@
-def my_each(words)
-  my_each(words) do |item|
-    while
-    puts words
+def my_each(array)
+  i = 0 
+  while i < array.length
 end
